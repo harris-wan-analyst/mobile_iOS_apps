@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS mobile.ios_apps
     user_rating numeric,
     user_rating_ver numeric,
     ver character varying,
-    cont_rating numeric,
+    cont_rating character varying,
     prime_genre character varying,
     sup_devices_num numeric,
     screenshot_num numeric,

@@ -29,7 +29,7 @@
 2. Dataset downloaded from [Kaggle](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps)
 
    - 7,197 rows
-   - 15 columns (Column Details)
+   - 15 columns ([Column Details](https://github.com/harris-wan-analyst/mobile_iOS_apps/blob/main/column_details.md))
    - data type: numeric & varchar 
    
 3. Tableau ([link](https://public.tableau.com/app/profile/harris.wan.analyst/viz/MobileAppDashboard_16726880309640/MobileAppiOSAnalysis))

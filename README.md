@@ -39,6 +39,8 @@
 ## Key Findings 
 
 1. iOS Market Analysis 
+   - Total number of genres available: **23**
+   
    - More than half (**53.66 %**) of the apps belong to the Games genre, followed by Entertainment (**7.43 %**) and Education (**6.29 %**)
    
    - There are more free apps (**56.36 %**) compared to paid apps (**43.64 %**)
@@ -54,7 +56,52 @@
         - 12+ (**16.05 %**)
         - 17+ (**8.64 %**)
    
-   - Avergage statistics for iOS apps 
-        - Number of devices supported: 37
-        - Number of languages supported: 5
-        - Number of screenshots shown: 3
+   - Avergage statistics for iOS apps:
+        - Number of devices supported: **37**
+        - Number of languages supported: **5**
+        - Number of screenshots shown: **3**
+
+2. Trending apps and genres by rating 
+
+    - The average user rating of all iOS apps is **3.527**
+
+    - Top 3 genres with highest ratings:
+        - Productivity: **4.281** (Rank **12th** in total number of ratings)
+        - Music: **4.261** (Rank **5th** in total number of ratings)
+        - Photo & Video: **4.092** (Rank **3rd** in total number of ratings)
+
+    - Example of trending apps (ratings in **4** & **5**): 
+        - Pythonista 3 (Productivity)
+        - Pandora - Music & Radio (Music)  
+        - Meitu (Photo & Video)
+
+    - Top 3 genres with lowest ratings:
+        - Catalogs: **2.200** (Rank **22nd** in total number of ratings)
+        - Book: **2.643** (Rank **19th** in total number of ratings)
+        - Finance: **2.654** (Rank **13th** in total number of ratings)
+
+3. Quality of apps (free apps vs paid apps)
+
+    - Most free apps (**72.44 %**) do not have any ratings (**0**)
+    
+    - Both free and paid apps have similar app count for ratings **1** and **2** 
+
+    - Free apps have higher app count than paid apps for ratings **3** to **5**
+
+## Recommendations
+
+- Key: Understand the type of app you want to create and genre it belongs then do the following: 
+
+1. Understand customer preferences overtime
+   - e.g. number of installs per app and genre / google trends 
+
+2. Finding niches in the market
+   - Idea 1: Develop a paid app with competitive pricing 
+      - paid apps have relatively lower ratings to free apps 
+      
+   - Idea 2: Develop a high quality app in areas with less competition and lower ratings 
+      - e.g. Finance genre only has 104 apps available and an average rating of 2.654
+
+3. Dive deep into top trending apps of your interest 
+   - 5Ws (Who, What, Where, When, Why) 
+   

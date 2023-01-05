@@ -17,6 +17,7 @@
       - Number of apps by genre
       - Free vs Paid app statistics
       - Number and kinds of content offered (e.g. 4+ to 18+) 
+      - Average statistics of number of devices and languages supported and number of screenshots shown for display
 
 2. Understand the top trending apps and genres 
       - App average rating and total number of ratings 
@@ -33,3 +34,27 @@
    - data type: numeric & varchar 
    
 3. Tableau ([link](https://public.tableau.com/app/profile/harris.wan.analyst/viz/MobileAppDashboard_16726880309640/MobileAppiOSAnalysis))
+
+
+## Key Findings 
+
+1. iOS Market Analysis 
+   - More than half (**53.66 %**) of the apps belong to the Games genre, followed by Entertainment (**7.43 %**) and Education (**6.29 %**)
+   
+   - There are more free apps (**56.36 %**) compared to paid apps (**43.64 %**)
+   
+   - Top 3 most common pricing for paid apps: 
+        - 0.99 (**10.12 %**)
+        - 2.99 (**9.49 %**)
+        - 1.99 (**8.63%**)
+        
+   - There are 4 types of contents offered:
+        - 4+ (**61.60 %**)
+        - 9+ (**13.71 %**)
+        - 12+ (**16.05 %**)
+        - 17+ (**8.64 %**)
+   
+   - Avergage statistics for iOS apps 
+        - Number of devices supported: 37
+        - Number of languages supported: 5
+        - Number of screenshots shown: 3

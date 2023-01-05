@@ -92,16 +92,16 @@
 
 - Key: Understand the type of app you want to create and genre it belongs then do the following: 
 
-1. Understand customer preferences overtime
+1. **Understand customer preferences overtime**
    - e.g. number of installs per app and genre / google trends 
 
-2. Finding niches in the market
+2. **Finding niches in the market**
    - Idea 1: Develop a paid app with competitive pricing 
       - paid apps have relatively lower ratings to free apps 
       
    - Idea 2: Develop a high quality app in areas with less competition and lower ratings 
       - e.g. Finance genre only has 104 apps available and an average rating of 2.654
 
-3. Dive deep into top trending apps of your interest 
+3. **Dive deep into top trending apps of your interest**
    - 5Ws (Who, What, Where, When, Why) 
    
